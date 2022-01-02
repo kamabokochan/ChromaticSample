@@ -17,11 +17,11 @@ export const ButtonNative = (props: Props) => {
 
 const styles = StyleSheet.create({
   container: {
-    width: 200,
-    height: 60,
-    borderRadius: 4,
+    width: 180,
+    height: 40,
+    borderRadius: 10,
     borderWidth: 1,
-    borderColor: "#333",
+    borderColor: "#555",
     backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
